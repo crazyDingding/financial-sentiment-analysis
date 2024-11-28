@@ -1,0 +1,115 @@
+2024-11-18 18:39:37,049 - INFO - Epoch 1/24
+2024-11-18 18:41:39,226 - INFO - Train loss: 0.9895, accuracy: 0.5986, F1: 0.4819
+2024-11-18 18:41:57,564 - INFO - Validation loss: 0.9182, accuracy: 0.6093, F1: 0.4613
+2024-11-18 18:41:57,564 - INFO - ------------------------------
+2024-11-18 18:41:58,074 - INFO - Best model saved with validation loss: 0.9182
+2024-11-18 18:41:58,074 - INFO - Epoch 2/24
+2024-11-18 18:44:00,962 - INFO - Train loss: 0.8777, accuracy: 0.6157, F1: 0.4694
+2024-11-18 18:44:18,946 - INFO - Validation loss: 0.8269, accuracy: 0.6093, F1: 0.4626
+2024-11-18 18:44:18,946 - INFO - ------------------------------
+2024-11-18 18:44:19,397 - INFO - Best model saved with validation loss: 0.8269
+2024-11-18 18:44:19,397 - INFO - Epoch 3/24
+2024-11-18 18:46:22,702 - INFO - Train loss: 0.7923, accuracy: 0.6461, F1: 0.5368
+2024-11-18 18:46:40,790 - INFO - Validation loss: 0.7048, accuracy: 0.7241, F1: 0.6576
+2024-11-18 18:46:40,792 - INFO - ------------------------------
+2024-11-18 18:46:41,217 - INFO - Best model saved with validation loss: 0.7048
+2024-11-18 18:46:41,217 - INFO - Epoch 4/24
+2024-11-18 18:48:50,625 - INFO - Train loss: 0.6615, accuracy: 0.7460, F1: 0.6856
+2024-11-18 18:49:10,996 - INFO - Validation loss: 0.5780, accuracy: 0.7726, F1: 0.7233
+2024-11-18 18:49:10,996 - INFO - ------------------------------
+2024-11-18 18:49:11,458 - INFO - Best model saved with validation loss: 0.5780
+2024-11-18 18:49:11,459 - INFO - Epoch 5/24
+2024-11-18 18:51:19,983 - INFO - Train loss: 0.5629, accuracy: 0.7714, F1: 0.7191
+2024-11-18 18:51:38,440 - INFO - Validation loss: 0.5150, accuracy: 0.7792, F1: 0.7334
+2024-11-18 18:51:38,440 - INFO - ------------------------------
+2024-11-18 18:51:38,887 - INFO - Best model saved with validation loss: 0.5150
+2024-11-18 18:51:38,887 - INFO - Epoch 6/24
+2024-11-18 18:53:42,296 - INFO - Train loss: 0.5024, accuracy: 0.7819, F1: 0.7307
+2024-11-18 18:54:00,270 - INFO - Validation loss: 0.4756, accuracy: 0.7947, F1: 0.7509
+2024-11-18 18:54:00,270 - INFO - ------------------------------
+2024-11-18 18:54:00,692 - INFO - Best model saved with validation loss: 0.4756
+2024-11-18 18:54:00,692 - INFO - Epoch 7/24
+2024-11-18 18:56:02,666 - INFO - Train loss: 0.4779, accuracy: 0.7913, F1: 0.7476
+2024-11-18 18:56:20,885 - INFO - Validation loss: 0.4450, accuracy: 0.8035, F1: 0.7682
+2024-11-18 18:56:20,886 - INFO - ------------------------------
+2024-11-18 18:56:21,311 - INFO - Best model saved with validation loss: 0.4450
+2024-11-18 18:56:21,311 - INFO - Epoch 8/24
+2024-11-18 18:58:23,855 - INFO - Train loss: 0.4395, accuracy: 0.8062, F1: 0.7721
+2024-11-18 18:58:42,089 - INFO - Validation loss: 0.4243, accuracy: 0.8146, F1: 0.7785
+2024-11-18 18:58:42,090 - INFO - ------------------------------
+2024-11-18 18:58:42,544 - INFO - Best model saved with validation loss: 0.4243
+2024-11-18 18:58:42,544 - INFO - Epoch 9/24
+2024-11-18 19:00:45,283 - INFO - Train loss: 0.4171, accuracy: 0.8095, F1: 0.7744
+2024-11-18 19:01:03,246 - INFO - Validation loss: 0.4077, accuracy: 0.8433, F1: 0.8292
+2024-11-18 19:01:03,246 - INFO - ------------------------------
+2024-11-18 19:01:03,664 - INFO - Best model saved with validation loss: 0.4077
+2024-11-18 19:01:03,664 - INFO - Epoch 10/24
+2024-11-18 19:03:06,243 - INFO - Train loss: 0.3972, accuracy: 0.8283, F1: 0.8022
+2024-11-18 19:03:24,469 - INFO - Validation loss: 0.4206, accuracy: 0.8444, F1: 0.8373
+2024-11-18 19:03:24,469 - INFO - ------------------------------
+2024-11-18 19:03:24,469 - INFO - Epoch 11/24
+2024-11-18 19:05:28,667 - INFO - Train loss: 0.3912, accuracy: 0.8426, F1: 0.8329
+2024-11-18 19:05:46,985 - INFO - Validation loss: 0.4021, accuracy: 0.8411, F1: 0.8427
+2024-11-18 19:05:46,985 - INFO - ------------------------------
+2024-11-18 19:05:47,411 - INFO - Best model saved with validation loss: 0.4021
+2024-11-18 19:05:47,412 - INFO - Epoch 12/24
+2024-11-18 19:07:52,733 - INFO - Train loss: 0.3750, accuracy: 0.8421, F1: 0.8338
+2024-11-18 19:08:13,065 - INFO - Validation loss: 0.3704, accuracy: 0.8521, F1: 0.8509
+2024-11-18 19:08:13,065 - INFO - ------------------------------
+2024-11-18 19:08:13,513 - INFO - Best model saved with validation loss: 0.3704
+2024-11-18 19:08:13,514 - INFO - Epoch 13/24
+2024-11-18 19:10:17,267 - INFO - Train loss: 0.3619, accuracy: 0.8548, F1: 0.8483
+2024-11-18 19:10:35,522 - INFO - Validation loss: 0.3627, accuracy: 0.8599, F1: 0.8549
+2024-11-18 19:10:35,522 - INFO - ------------------------------
+2024-11-18 19:10:35,967 - INFO - Best model saved with validation loss: 0.3627
+2024-11-18 19:10:35,967 - INFO - Epoch 14/24
+2024-11-18 19:12:39,628 - INFO - Train loss: 0.3444, accuracy: 0.8625, F1: 0.8602
+2024-11-18 19:12:57,535 - INFO - Validation loss: 0.3469, accuracy: 0.8665, F1: 0.8672
+2024-11-18 19:12:57,536 - INFO - ------------------------------
+2024-11-18 19:12:57,966 - INFO - Best model saved with validation loss: 0.3469
+2024-11-18 19:12:57,966 - INFO - Epoch 15/24
+2024-11-18 19:15:00,643 - INFO - Train loss: 0.3368, accuracy: 0.8675, F1: 0.8664
+2024-11-18 19:15:18,831 - INFO - Validation loss: 0.3551, accuracy: 0.8755, F1: 0.8747
+2024-11-18 19:15:18,832 - INFO - ------------------------------
+2024-11-18 19:15:18,832 - INFO - Epoch 16/24
+2024-11-18 19:17:23,130 - INFO - Train loss: 0.3156, accuracy: 0.8769, F1: 0.8764
+2024-11-18 19:17:41,880 - INFO - Validation loss: 0.3273, accuracy: 0.8772, F1: 0.8734
+2024-11-18 19:17:41,881 - INFO - ------------------------------
+2024-11-18 19:17:42,315 - INFO - Best model saved with validation loss: 0.3273
+2024-11-18 19:17:42,316 - INFO - Epoch 17/24
+2024-11-18 19:19:50,283 - INFO - Train loss: 0.2979, accuracy: 0.8890, F1: 0.8886
+2024-11-18 19:20:08,801 - INFO - Validation loss: 0.3231, accuracy: 0.8794, F1: 0.8780
+2024-11-18 19:20:08,802 - INFO - ------------------------------
+2024-11-18 19:20:09,235 - INFO - Best model saved with validation loss: 0.3231
+2024-11-18 19:20:09,236 - INFO - Epoch 18/24
+2024-11-18 19:22:14,549 - INFO - Train loss: 0.2930, accuracy: 0.8879, F1: 0.8878
+2024-11-18 19:22:32,956 - INFO - Validation loss: 0.3194, accuracy: 0.8812, F1: 0.8768
+2024-11-18 19:22:32,957 - INFO - ------------------------------
+2024-11-18 19:22:33,401 - INFO - Best model saved with validation loss: 0.3194
+2024-11-18 19:22:33,402 - INFO - Epoch 19/24
+2024-11-18 19:24:37,486 - INFO - Train loss: 0.2893, accuracy: 0.8868, F1: 0.8866
+2024-11-18 19:24:55,900 - INFO - Validation loss: 0.3290, accuracy: 0.8842, F1: 0.8760
+2024-11-18 19:24:55,900 - INFO - ------------------------------
+2024-11-18 19:24:55,900 - INFO - Epoch 20/24
+2024-11-18 19:27:01,013 - INFO - Train loss: 0.2802, accuracy: 0.8956, F1: 0.8956
+2024-11-18 19:27:19,703 - INFO - Validation loss: 0.2967, accuracy: 0.8874, F1: 0.8878
+2024-11-18 19:27:19,704 - INFO - ------------------------------
+2024-11-18 19:27:20,143 - INFO - Best model saved with validation loss: 0.2967
+2024-11-18 19:27:20,144 - INFO - Epoch 21/24
+2024-11-18 19:29:25,212 - INFO - Train loss: 0.2742, accuracy: 0.8951, F1: 0.8957
+2024-11-18 19:29:43,668 - INFO - Validation loss: 0.3325, accuracy: 0.8905, F1: 0.8908
+2024-11-18 19:29:43,669 - INFO - ------------------------------
+2024-11-18 19:29:43,669 - INFO - Epoch 22/24
+2024-11-18 19:31:49,309 - INFO - Train loss: 0.2671, accuracy: 0.8956, F1: 0.8961
+2024-11-18 19:32:07,688 - INFO - Validation loss: 0.2898, accuracy: 0.8918, F1: 0.8930
+2024-11-18 19:32:07,688 - INFO - ------------------------------
+2024-11-18 19:32:08,122 - INFO - Best model saved with validation loss: 0.2898
+2024-11-18 19:32:08,123 - INFO - Epoch 23/24
+2024-11-18 19:34:13,305 - INFO - Train loss: 0.2608, accuracy: 0.9006, F1: 0.9012
+2024-11-18 19:34:31,537 - INFO - Validation loss: 0.2964, accuracy: 0.8930, F1: 0.8947
+2024-11-18 19:34:31,537 - INFO - ------------------------------
+2024-11-18 19:34:31,537 - INFO - Epoch 24/24
+2024-11-18 19:36:36,077 - INFO - Train loss: 0.2437, accuracy: 0.9001, F1: 0.9006
+2024-11-18 19:36:54,248 - INFO - Validation loss: 0.2840, accuracy: 0.8974, F1: 0.8990
+2024-11-18 19:36:54,249 - INFO - ------------------------------
+2024-11-18 19:36:54,677 - INFO - Best model saved with validation loss: 0.2840
